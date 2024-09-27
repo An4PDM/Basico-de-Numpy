@@ -9,7 +9,7 @@
     <li> - [x] Ndarrays </li>
     <li> - [x] Tipos de dados para ndarrays </li>
     <li> - [x] Aritmética com arrays </li>
-    <li> - [ ] Indexação básica e fatiamento </li>
+    <li> - [x] Indexação básica e fatiamento </li>
     <li> - [ ] Indexando com fatias </li>
     <li> - [ ] Indexação booleana </li>
     <li> - [ ] Indexação sofisticada </li>
