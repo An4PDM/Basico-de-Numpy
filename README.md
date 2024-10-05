@@ -10,9 +10,9 @@
     <li> - [x] Tipos de dados para ndarrays </li>
     <li> - [x] Aritmética com arrays </li>
     <li> - [x] Indexação básica e fatiamento </li>
-    <li> - [ ] Indexando com fatias </li>
-    <li> - [ ] Indexação booleana </li>
-    <li> - [ ] Indexação sofisticada </li>
+    <li> - [x] Indexando com fatias </li>
+    <li> - [x] Indexação booleana </li>
+    <li> - [x] Indexação sofisticada </li>
     <li> - [ ] Transposição de arrays e troca de eixos </li>
     <li> - [ ] Funções universais </li>
 </ul>
