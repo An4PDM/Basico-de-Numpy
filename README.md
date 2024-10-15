@@ -1,6 +1,6 @@
 ## *Estudos básicos sobre Numpy*
-<p>Este repositório tem o objetivo organizar meus estudos sobre a biblioteca de Numeric Python: Numpy</p>
-<p>Estarei utilizando o Jupyter-Notebook como meu ambiente de estudos e usarei o livro "Python para Análise de Dados" como minha principal fonte de conteúdo.</p>
+<p> Este repositório tem como objetivo organizar meus estudos sobre a biblioteca 'Numeric Python': Numpy </p>
+<p> Estarei utilizando o Jupyter-Notebook como meu ambiente de estudos e usarei o livro "Python para Análise de Dados" como minha principal fonte de conteúdo. </p>
 
 ##
 
