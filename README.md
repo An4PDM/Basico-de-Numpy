@@ -13,8 +13,14 @@
     <li> - [x] Indexando com fatias </li>
     <li> - [x] Indexação booleana </li>
     <li> - [x] Indexação sofisticada </li>
-    <li> - [ ] Transposição de arrays e troca de eixos </li>
-    <li> - [ ] Funções universais </li>
+    <li> - [x] Transposição de arrays e troca de eixos </li>
+    <li> - [x] Funções universais </li>
+    <li> - [ ] Programação orientada a arrays </li>
+    <li> - [ ] Expressão de lógica condicional como operaçoes de array </li>
+    <li> - [ ] Métodos matemáticos e estatísticos </li>
+    <li> - [ ] Métodos para arrays booleanos </li>
+    <li> - [ ] Ordenação </li>
+    <li> - [ ] Unicidade e outras lógicas de conjuntos </li>
 </ul>
 
 ##
