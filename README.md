@@ -15,8 +15,7 @@
     <li> - [x] Indexação sofisticada </li>
     <li> - [x] Transposição de arrays e troca de eixos </li>
     <li> - [x] Funções universais </li>
-    <li> - [ ] Programação orientada a arrays </li>
-    <li> - [ ] Expressão de lógica condicional como operaçoes de array </li>
+    <li> - [x] Expressão de lógica condicional como operaçoes de array </li>
     <li> - [ ] Métodos matemáticos e estatísticos </li>
     <li> - [ ] Métodos para arrays booleanos </li>
     <li> - [ ] Ordenação </li>
