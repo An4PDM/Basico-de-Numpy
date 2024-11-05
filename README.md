@@ -16,7 +16,7 @@
     <li> - [x] Transposição de arrays e troca de eixos </li>
     <li> - [x] Funções universais </li>
     <li> - [x] Expressão de lógica condicional como operaçoes de array </li>
-    <li> - [ ] Métodos matemáticos e estatísticos </li>
+    <li> - [x] Métodos matemáticos e estatísticos </li>
     <li> - [ ] Métodos para arrays booleanos </li>
     <li> - [ ] Ordenação </li>
     <li> - [ ] Unicidade e outras lógicas de conjuntos </li>
