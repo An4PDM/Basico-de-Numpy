@@ -17,9 +17,9 @@
     <li> - [x] Funções universais </li>
     <li> - [x] Expressão de lógica condicional como operaçoes de array </li>
     <li> - [x] Métodos matemáticos e estatísticos </li>
-    <li> - [ ] Métodos para arrays booleanos </li>
-    <li> - [ ] Ordenação </li>
-    <li> - [ ] Unicidade e outras lógicas de conjuntos </li>
+    <li> - [x] Métodos para arrays booleanos </li>
+    <li> - [x] Ordenação </li>
+    <li> - [x] Unicidade e outras lógicas de conjuntos </li>
     <li> - [ ] Entrada e saída de arquivos com arrays </li>
     <li> - [ ] Álgebra linear </li>
     <li> - [ ] Geração de números pseudoaleatórios </li>
