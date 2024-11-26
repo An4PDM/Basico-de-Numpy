@@ -20,11 +20,11 @@
     <li> - [x] Métodos para arrays booleanos </li>
     <li> - [x] Ordenação </li>
     <li> - [x] Unicidade e outras lógicas de conjuntos </li>
-    <li> - [ ] Entrada e saída de arquivos com arrays </li>
-    <li> - [ ] Álgebra linear </li>
-    <li> - [ ] Geração de números pseudoaleatórios </li>
-    <li> - [ ] Exemplo: passeios aleatórios </li>
-    <li> - [ ] Simulando vários passeios aleatórios de uma só vez </li>
+    <li> - [x] Entrada e saída de arquivos com arrays </li>
+    <li> - [x] Álgebra linear </li>
+    <li> - [x] Geração de números pseudoaleatórios </li>
+    <li> - [x] Exemplo: passeios aleatórios </li>
+    <li> - [x] Simulando vários passeios aleatórios de uma só vez </li>
 </ul>
 
 ##
